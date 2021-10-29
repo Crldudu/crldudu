@@ -1,5 +1,5 @@
 
-![homem-do-computador](https://github.com/Crldudu/crldudu/blob/main/16037185985be0d4215118849898.gif)
+![Gif animado - Dev.gif](https://github.com/Crldudu/crldudu/blob/main/Gif%20animado%20-%20Dev.gif)
 
 
 ## Hi! I'm Carlos Eduardo
