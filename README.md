@@ -7,7 +7,7 @@
 - :brazil: I am Brazilian
 - 🌱 I'm currently learning web development...
 - 💬 I am a person fascinated with the world of technology...
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: He/His
 
 #### 💌 Connect with me
 
