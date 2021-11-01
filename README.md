@@ -15,7 +15,7 @@
 #### 💌 Connect with me
 
    <p>
-    <a href="https://www.linkedin.com/in/carlos-eduardo-13119b223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_parent"></a> 
+    <a href="https://www.linkedin.com/in/carlos-eduardo-13119b223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </p>
 
 ### Languages I'm learning
