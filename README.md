@@ -3,7 +3,7 @@
 ## Hi! I'm Carlos Eduardo
 - 📚 I'm currently a student...
 - :brazil: I am Brazilian
-- 🌱 I'm currently learning web development...
+- 🌱 I'm currently learning back end...
 - 💬 I am a person fascinated with the world of technology...
 - 😄 Pronouns: He/His
 
@@ -16,12 +16,4 @@
 
    <p>
     <a href="https://www.linkedin.com/in/carlos-eduardo-13119b223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   </p>
-
-### Languages I'm learning
-
-<div style="align="left"> <br>
-<img align="left" alt="Dudu-Js" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" alt="Dudu-HTML" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" alt="Dudu-CSS" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  </p>
